@@ -1,0 +1,36 @@
+1. Organização das pastas no computador
+
+C:/
+Paineis_ENAC
+Paineis_ENAC/Diario
+Paineis_ENAC/Diario/GCISA-DIVAT
+Paineis_ENAC/Diario/GCISA-NATE
+Paineis_ENAC/Diario/GCISD-DIVAT
+Paineis_ENAC/Diario/GCISD-NATE
+
+Paineis_ENAC/Relatorios
+Paineis_ENAC/Relatorios/DGE
+Paineis_ENAC/Relatorios/DGE/SA_Tarefas_Abertas
+Paineis_ENAC/Relatorios/DGE/SD_CDA
+Paineis_ENAC/Relatorios/DGE/SD_Inscricao
+Paineis_ENAC/Relatorios/DGE/SD_Todos_Creditos
+
+Paineis_ENAC/Relatorios/ENAC
+Paineis_ENAC/Relatorios/ENAC/Tarefas_em_Abertas
+
+2. Criar um arquivo .bat para criação automática dos diretórios em qualquer máquina
+
+3. Compartilhamento, versionamento do código e padronização de linguagem
+Repositório: https://github.com/VinicusGB/agu-gcisd_nate
+Versionamento: Git
+Linguagem: Python 3.9.x
+Ambiente de desenvolvimento: venv
+
+4. Organização dos dados no repositório
+I	- README.md: Descrição do Painel que vai utilizar o código
+II	- Metadados.txt: Verificar com o Jonas para criação do arquivo de   Metadados
+III	- Análise: Analisar o painel e o relatório para criação das tabelas necessárias
+IV	- Código: Criação do código
+V	- Teste: Teste do novo painel com o painel antigo.
+
+
